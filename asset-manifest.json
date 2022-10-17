@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://uyasn.github.io/csb-zrpsod/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://uyasn.github.io/csb-zrpsod/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://uyasn.github.io/csb-zrpsod/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://uyasn.github.io/csb-zrpsod/static/js/runtime-main.12bcb3d9.js",
+    "runtime-main.js.map": "https://uyasn.github.io/csb-zrpsod/static/js/runtime-main.12bcb3d9.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://uyasn.github.io/csb-zrpsod/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://uyasn.github.io/csb-zrpsod/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://uyasn.github.io/csb-zrpsod/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://uyasn.github.io/csb-zrpsod/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://uyasn.github.io/csb-zrpsod/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12bcb3d9.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
