@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://uyasn.github.io/csb-zrpsod/static/css/main.c9e9ac0e.chunk.css",
-    "main.js": "https://uyasn.github.io/csb-zrpsod/static/js/main.d788dc56.chunk.js",
-    "main.js.map": "https://uyasn.github.io/csb-zrpsod/static/js/main.d788dc56.chunk.js.map",
+    "main.js": "https://uyasn.github.io/csb-zrpsod/static/js/main.940090b6.chunk.js",
+    "main.js.map": "https://uyasn.github.io/csb-zrpsod/static/js/main.940090b6.chunk.js.map",
     "runtime-main.js": "https://uyasn.github.io/csb-zrpsod/static/js/runtime-main.12bcb3d9.js",
     "runtime-main.js.map": "https://uyasn.github.io/csb-zrpsod/static/js/runtime-main.12bcb3d9.js.map",
     "static/js/2.ab2519b7.chunk.js": "https://uyasn.github.io/csb-zrpsod/static/js/2.ab2519b7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.12bcb3d9.js",
     "static/js/2.ab2519b7.chunk.js",
     "static/css/main.c9e9ac0e.chunk.css",
-    "static/js/main.d788dc56.chunk.js"
+    "static/js/main.940090b6.chunk.js"
   ]
 }
